@@ -1,3 +1,4 @@
+console.log("test");
 var detlatsaccum=0;
 Game.Loop=function()
 	{
